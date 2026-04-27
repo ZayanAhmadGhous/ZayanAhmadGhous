@@ -54,8 +54,8 @@ I am a passionate **MLOps Engineer & AI Developer** focused on building, deployi
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zayan-ahmad-ghous&show_icons=true&theme=radical&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zayan-ahmad-ghous&layout=compact&theme=radical&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZayanAhmadGhous&show_icons=true&theme=radical&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZayanAhmadGhous&layout=compact&theme=radical&hide_border=true"/>
 
 </div>
 
