@@ -31,9 +31,12 @@ Currently focused on learning how to take ML models from experimentation to real
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### ⚙️ Currently Learning (MLOps)
+### MLOPS TOOLS
 ![FastAPI](https://img.shields.io/badge/FastAPI-Learning-blue?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-Learning-blue?style=for-the-badge)
+
+
+### ⚙️ Currently Learning (MLOps)
 ![MLflow](https://img.shields.io/badge/MLflow-Learning-blue?style=for-the-badge)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-Learning-blue?style=for-the-badge)
 
